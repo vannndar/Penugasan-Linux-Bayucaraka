@@ -1,5 +1,4 @@
 Nama	: Naswan Nashir Ramadhan
 NRP	: 5025231246
 
-
-'/home/nns/Pictures/Screenshot from 2024-01-07 17-55-51.png' 
+![desktop](https://github.com/mnnns/Penugasan-Linux-Bayucaraka/assets/144260640/aed0c157-e858-4f52-9010-05da5de5208f)
