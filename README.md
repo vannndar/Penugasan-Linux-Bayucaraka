@@ -35,5 +35,48 @@
    </li>
   </ul>
 </div>
-<div></div>
+<div>
+ <h2>Daftar Pengerjaan Tugas Linux, Github, dan Git</h2>
+ <ul>
+   <li>
+    Aryaka Leorgi ✅
+   </li>
+  <li>
+    Cathleen Gracia ✅
+   </li>
+  <li>
+    Danish Rafie Ekaputra ✅ (penempatan file salah & foto tidak terlihat)
+   </li>
+  <li>
+    Dimas Andhika Diputra ✅
+   </li>
+  <li>
+    Farrel Ganendra ✅
+   </li>
+  <li>
+    Gusti Gratia ✅ (kenapa pake drive kan ada filenya)
+   </li>
+  <li>
+    Muhammad Risyad Himawan Putra ✅
+   </li>
+  <li>
+    Muhammad Zia Alhambra ✅ (penempatan file salah)
+   </li>
+  <li>
+    Naswan Nashir Ramadhan ✅
+   </li>
+  <li>
+    Nicholas Abel ✅ (penempatan file salah & foto tidak ada)
+   </li>
+  <li>
+    Prayoga Permana Hakim ❌
+   </li>
+  <li>
+    Reihan Arianza ✅ (foto tidak terlihat)
+   </li>
+  <li>
+    Sultan Syafiq Rakan ✅
+   </li>
+  </ul>
+</div>
 
